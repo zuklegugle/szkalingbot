@@ -1,0 +1,13 @@
+{
+  "name": "szkaling-bot",
+  "version": "1.0.0",
+  "description": "szkalownik",
+  "main": "bot.js",
+  "author": "zuklegugle",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "lokijs": "^1.5.5"
+  }
+}
